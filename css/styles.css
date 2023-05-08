@@ -1,19 +1,24 @@
 html{
     background-color: black;
 }
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
 
 .postcard{
     background-color: rgb(255, 255, 255);
-    width:400px;
+    width:450px;
     position: relative center;
     margin:auto;
   
    
 }
 .encabezado{
-    width: 400px;
+    width: 450px;
     background-color: white;
     margin: none;
+    padding-top:10px;
+    padding-bottom: 10px;
     }
 
 .imagenhtml{
@@ -21,13 +26,18 @@ html{
     height: 40px;
    
 }
-.fa-solid fa-ellipsis-vertical{
+.trespuntos{
     float: right;
-    height: 200px;
+    padding-right: 10px;
 }
+.html{
+    font-weight: bold;
+
+}
+
 .imagenCentral{
     margin:none;
-    width: 400px;
+    width: 450px;
     padding: none;
 }
 
@@ -41,16 +51,15 @@ html{
 }
 .bookmark{
     float:right;
-    padding-right: 10px;
+
 }
+
 .textoFinal{
     padding-bottom: 30px;
 }
-.iconos{
-    padding-top: 15px;
-    padding-bottom: 15px;
+.contenido-1{
+    padding-top: 10px;
 }
-span{
-    margin-top: 10px;
-    margin-bottom: 10px;
+.contenido-2{
+    padding-bottom: 10px;
 }
