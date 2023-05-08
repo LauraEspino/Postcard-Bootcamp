@@ -26,9 +26,13 @@ body{
     height: 40px;
    
 }
+.tituloysubtitulo{
+    position:absolute;
+}
 .trespuntos{
-    float: right;
+    float:right;
     padding-right: 10px;
+
 }
 .html{
     font-weight: bold;
