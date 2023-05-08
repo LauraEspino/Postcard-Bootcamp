@@ -1,0 +1,44 @@
+html{
+    background-color: black;
+}
+
+.postcard{
+    background-color: black;
+    width: 500px;
+    padding: 50px;
+    position: relative center;
+    margin:auto;
+   
+}
+.encabezado{
+    width: 500px;
+    background-color: white;
+    margin: none;
+
+}
+
+.imagenhtml{
+    float:left;
+    height: 30px;
+
+
+    
+}
+.trespuntos{
+    float: right;
+    height: 30px;
+
+}
+.imagenCentral{
+    width: 500px;
+}
+.imagenicono{
+    width: 500px;
+    height: 100px;
+}
+.contenido{
+    background-color: white;
+}
+.bold{
+    font-weight: bold;
+}
