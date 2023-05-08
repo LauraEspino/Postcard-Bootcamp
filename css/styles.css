@@ -3,42 +3,54 @@ html{
 }
 
 .postcard{
-    background-color: black;
-    width: 500px;
-    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    width:400px;
     position: relative center;
     margin:auto;
+  
    
 }
 .encabezado{
-    width: 500px;
+    width: 400px;
     background-color: white;
     margin: none;
-
-}
+    }
 
 .imagenhtml{
     float:left;
-    height: 30px;
-
-
-    
+    height: 40px;
+   
 }
-.trespuntos{
+.fa-solid fa-ellipsis-vertical{
     float: right;
-    height: 30px;
-
+    height: 200px;
 }
 .imagenCentral{
-    width: 500px;
+    margin:none;
+    width: 400px;
+    padding: none;
 }
-.imagenicono{
-    width: 500px;
-    height: 100px;
-}
+
 .contenido{
     background-color: white;
+    margin:none;
+    padding: 10px;
 }
 .bold{
     font-weight: bold;
+}
+.bookmark{
+    float:right;
+    padding-right: 10px;
+}
+.textoFinal{
+    padding-bottom: 30px;
+}
+.iconos{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+span{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
